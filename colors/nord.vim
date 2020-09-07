@@ -12,14 +12,14 @@ if version > 580
   endif
 endif
 
-let g:colors_name = "nord"
-let s:nord_vim_version="0.15.0"
+let g:colors_name = "nord-wave"
+let s:nord_vim_version="0.0.1"
 set background=dark
 
-let s:nord0_gui = "#2E3440"
-let s:nord1_gui = "#3B4252"
+let s:nord0_gui = "#212121"
+let s:nord1_gui = "#171717"
 let s:nord2_gui = "#434C5E"
-let s:nord3_gui = "#4C566A"
+let s:nord3_gui = "#212121"
 let s:nord3_gui_bright = "#616E88"
 let s:nord4_gui = "#D8DEE9"
 let s:nord5_gui = "#E5E9F0"
